@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Poo.RepoTest.Test
 {
-    internal class Archivo2
+    internal class Archvo4
     {
-        //Yo comente mas sarpado
-        //Comente bien sarpado
     }
 }
